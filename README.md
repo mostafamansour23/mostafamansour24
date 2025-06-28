@@ -17,21 +17,34 @@ I am passionate about data and believe in AI's power to improve people's lives
 - 🏢 I'm a Data Analytics Engineer  Design and implement scalable data pipelines using modern data engineering tools.
 ● Understand the full lifecycle of data engineering, from extraction to transformation,
 orchestration, and deployment.
+
 ● Work with cloud platforms, data warehouses, and orchestration tools to build reliable
 data infrastructure.
+
 ● Handle batch and streaming data efficiently, ensuring real-time insights and large-scale
 data processing.
+
 ● Maintain high data quality standards using automated checks.
+
 ● Collaborate on projects using version control and CI/CD for automated deployments.
+
 ● Master the principles of data extraction, transformation, and loading (ETL/ELT).
+
 ● Build and optimize data pipelines using industry-leading tools like Airflow, dbt, and
 Spark.
+
 ● Design scalable data models and warehouses using Google BigQuery.
+
 ● Implement real-time data processing and streaming solutions.
+
 ● Ensure data quality and reliability using modern monitoring tools and practices.
+
 ● Deploy data solutions in production environments with CI/CD practices.
+
 - 👨‍💻 As a Graduate, I'm constantly learning and exploring new technologies to improve my skills.
+
 - 💬 Ask me about my experience with Python, R, and Power BI, or anything related to data analytics.
+
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
